@@ -17,14 +17,18 @@ Also gluten and fake meat free (impossible!)
 * Big Tomatoes (whatever is local and large)
 * Mushrooms (portobello, shitake, etc.)
 * Corn (optional but adds texture)
-* Optional Beans (disables Texas option)
-* Use low salt options here or dried beans so the entire chili can be seasoned to taste.
+
+#### Optional Beans (disables Texas option)
+
+Use low salt options here or dried beans so the 
+entire chili can be seasoned to taste.
+
 * Pinto
 * Kidney
 * Navy
 
 
-## Filling
+### Filling
 
 * These ingredients make up the base that would be meat in a non vegetarian chili.
 * Walnuts
@@ -32,7 +36,7 @@ Also gluten and fake meat free (impossible!)
 * Eggplant
 
 
-## Spices
+### Spices
 
 * This is where the flavor and heat comes from.
 * Ground chili (milder red variety)
@@ -57,7 +61,7 @@ Also gluten and fake meat free (impossible!)
 * Salt
 
 
-# Garnish & Toppings
+### Garnish & Toppings
 
 * Red onion diced
 * Cilantro
